@@ -27,7 +27,6 @@ import n5 from './events/n5.png';
 import n6 from './events/n6.png';
 
 import gen from './flyers/gen.png';
-// import ATM from './videos/ATM.mp4';
 import aFly from './flyers/aFly.png';
 import a1 from './flyers/a1.png';
 import a2 from './flyers/a2.png';
@@ -110,5 +109,5 @@ export {
 	n5,
 	n6,
 	about,
-	// ATM,
+	
 };

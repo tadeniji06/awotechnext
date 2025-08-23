@@ -272,7 +272,16 @@ const Footer: React.FC = () => {
 					<div className='flex flex-col lg:flex-row items-center justify-between gap-4 text-sm text-gray-200'>
 						<p className='flex items-center gap-2'>
 							<Icon icon='mdi:copyright' />
-							{year} B360 Development. All Rights Reserved.
+							{year}{" "}
+							<p>
+								Developed by{" "}
+								<Link
+									target='_blank'
+									href='https://olutunmise.vercel.app'
+								>
+									princeOTF
+								</Link>
+							</p>
 						</p>
 
 						<div className='flex items-center gap-6'>
