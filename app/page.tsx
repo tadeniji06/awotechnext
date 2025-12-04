@@ -8,7 +8,7 @@ import WhyUs from "@/components/home/WhyUs";
 const page = () => {
 	return (
 		<div className='min-h-screen'>
-			<Announcement />
+			{/* <Announcement /> */}
 			<Hero />
 			<WhyUs />
 			<Ready />
